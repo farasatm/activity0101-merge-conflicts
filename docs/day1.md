@@ -1,8 +1,8 @@
 ---
 title: Day 1
 output: html_document
-author: "Kushal Dahal"
----
+author: "Moeen Farasat && Kushal Dahal"
+
 
 # Example Text
 
