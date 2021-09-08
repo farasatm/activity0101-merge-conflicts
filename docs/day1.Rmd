@@ -4,5 +4,8 @@ output: html_document
 ---
 
 # Example Text
+test conflict
+color blaclk
+7:45
 
 This document is just to show plain text as a `.md` and `.html` document as well as a `.pdf`.
